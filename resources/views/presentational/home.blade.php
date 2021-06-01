@@ -422,25 +422,6 @@
                            </div>
                         </div>
                         <div class="card">
-                           <div class="card-header p-0" id="headingTwo" role="tab">
-                              <h2 class="mb-0">
-                                 <button href="#collapseTwo" class="d-flex py-3 px-4 align-items-center justify-content-between btn btn-link" data-parent="#accordion" data-toggle="collapse" aria-expanded="false" aria-controls="collapseTwo">
-                                    <p class="mb-0">What is W-Loan?</p>
-                                    <i class="fa" aria-hidden="true"></i>
-                                 </button>
-                              </h2>
-                           </div>
-                           <div class="collapse" id="collapseTwo" role="tabpanel" aria-labelledby="headingTwo">
-                              <div class="card-body py-3 px-0">
-                                    We give you loans to catch up with unexpected emergency expenses such as;
-                                    Home financing Loans,
-                                     Personal Loan and
-                                    Business Loan.
-                                    We thrive on helping women take control of their finances.
-                              </div>
-                           </div>
-                        </div>
-                        <div class="card">
                            <div class="card-header p-0" id="headingThree" role="tab">
                               <h2 class="mb-0">
                                  <button href="#collapseThree" class="d-flex py-3 px-4 align-items-center justify-content-between btn btn-link" data-parent="#accordion" data-toggle="collapse" aria-expanded="false" aria-controls="collapseThree">
@@ -467,6 +448,25 @@
                            <div class="collapse" id="collapseFour" role="tabpanel" aria-labelledby="headingTwo">
                               <div class="card-body py-3 px-0">
                                  <p>W-Savings help you save consistently towards a particular financial goal. E.g. travel, accommodation, events e.t.c. it also helps you earn more money while at it.</p>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="card">
+                           <div class="card-header p-0" id="headingTwo" role="tab">
+                              <h2 class="mb-0">
+                                 <button href="#collapseTwo" class="d-flex py-3 px-4 align-items-center justify-content-between btn btn-link" data-parent="#accordion" data-toggle="collapse" aria-expanded="false" aria-controls="collapseTwo">
+                                    <p class="mb-0">What is W-Loan?</p>
+                                    <i class="fa" aria-hidden="true"></i>
+                                 </button>
+                              </h2>
+                           </div>
+                           <div class="collapse" id="collapseTwo" role="tabpanel" aria-labelledby="headingTwo">
+                              <div class="card-body py-3 px-0">
+                                    We give you loans to catch up with unexpected emergency expenses such as;
+                                    Home financing Loans,
+                                     Personal Loan and
+                                    Business Loan.
+                                    We thrive on helping women take control of their finances.
                               </div>
                            </div>
                         </div>
